@@ -587,7 +587,7 @@ arcolinux-zsh-git
 ###########################################################################
 
 #arcolinux-awesome-git
-arcolinux-bspwm-git
+#arcolinux-bspwm-git
 #arcolinux-budgie-git
 #arcolinux-cinnamon-git
 #arcolinux-cutefish-git
@@ -731,7 +731,7 @@ adobe-source-han-sans-cn-fonts
 ###########################################################################
 
 #arcob-calamares-config-awesome-git
-arcob-calamares-config-bspwm-git
+#arcob-calamares-config-bspwm-git
 #arcob-calamares-config-budgie-git
 #arcob-calamares-config-cinnamon-git
 #arcob-calamares-config-cwm-git
@@ -839,7 +839,7 @@ lxappearance
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
 exo
-garcon
+#garcon
 thunar
 thunar-volman
 tumbler
@@ -904,10 +904,7 @@ xfce4-taskmanager
 #polybar
 polybar
 
-#desktop specific bspwm
-bspwm
+#desktop specific wmderland
+wmderland-git
 sxhkd
-xdo
-sutils-git
-xtitle-git
 autorandr

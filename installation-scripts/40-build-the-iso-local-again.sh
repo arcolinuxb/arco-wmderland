@@ -26,8 +26,8 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="bspwm"
-	dmDesktop="bspwm"
+	desktop="wmderland"
+	dmDesktop="wmderland"
 
 	arcolinuxVersion='v21.11.1'
 
